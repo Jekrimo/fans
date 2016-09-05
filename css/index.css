@@ -5,6 +5,16 @@
 }
 
 .topimgs{
-  height: 700px;
+  height: 100%;
   width: 100%;
+}
+
+.midimg{
+  padding: 10px;
+}
+#siteinfo{
+  margin-top: 40px;
+}
+.webforward{
+  margin-left: 1rem;
 }
